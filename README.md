@@ -21,3 +21,7 @@ This should ensure a local optimum, We take multiple samples and loop to find th
 ### Proof of result
 We need to ensure this converge towards the global best optimum
 TODO
+
+## Brute force
+With 400 seats, 400 person, need to check if computable
+
