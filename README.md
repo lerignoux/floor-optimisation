@@ -23,5 +23,5 @@ We need to ensure this converge towards the global best optimum
 TODO
 
 ## Brute force
-With 400 seats, 400 person, need to check if computable
+With 400 seats, 400 person -> 400! positions, not computable
 
